@@ -18,12 +18,3 @@ github: https://github.com/fingtest6
 
 # TODO：适配更多的社交账号
 # TODO: Add more social accounts
-gitalk:
-  enable: true
-  clientID: 29b361428ea6fb15807d
-  clientSecret: 8b784dfc7f3204889a4bc6f9e0fc88a765103d9a
-  repo: fingtest6_hlog_comments
-  owner: fingtest6
-  admin: ['fingtest6','cjhcjh6']
-  language: zh-CN
-  proxy: https://proxy-gitalk-api.netlify.app/github_access_token

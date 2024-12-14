@@ -6,28 +6,23 @@ date: 2024-12-15
   div > a {
     display: flex;
     flex-direction: column;
-    align-items: center; /* 水平居中对齐 */
+    align-items: center; 
     text-decoration: none;
     color: inherit;
   }
   div > a > h1 {
-    margin: 5px; /* 移除h1标签的默认外边距 */
+    margin: 5px; 
     font-size: 2em;
   }
-
-  /* 默认情况下，为桌面视图设置样式 */
   .link-container {
     display: flex;
     justify-content: space-around;
     padding: 5px;
   }
-
   .link-container + .link-container {
     padding-top: 20px;
   }
-
   @media only screen and (max-width: 768px) {
-    /* 当屏幕宽度小于或等于768px时，应用以下样式 */
     .link-container {
       flex-direction: column;
       align-items: center;
@@ -35,7 +30,7 @@ date: 2024-12-15
     }
 
     .link-container a {
-      margin: 10px 0; /* 在每个链接之间添加上下间距 */
+      margin: 10px 0; 
     }
   }
 </style>
@@ -54,6 +49,7 @@ date: 2024-12-15
     <img src="/imgs/3.png" alt="图片描述3" width="300" height="180"/>
   </a>
 </div>
+
 <div class="link-container">
   <a href="https://modpack.rduteam.top/" target="_blank">
     <h1>什亭之人的整合包发布</h1>
@@ -68,3 +64,20 @@ date: 2024-12-15
     <img src="/imgs/6.png" alt="图片描述3" width="300" height="180"/>
   </a>
 </div>
+
+<!--预留空位
+<div class="link-container">
+  <a href="./" target="_blank">
+    <h1>无</h1>
+    <img src="/imgs/Not.jpg" alt="图片描述1" width="300" height="180"/>
+  </a>
+  <a href="./" target="_blank">
+    <h1>无</h1>
+    <img src="/imgs/Not.jpg" alt="图片描述2" width="300" height="180"/>
+  </a>
+  <a href="./" target="_blank">
+    <h1>无</h1>
+    <img src="/imgs/Not.jpg" alt="图片描述3" width="300" height="180"/>
+  </a>
+</div>
+-->

@@ -1,6 +1,7 @@
 ---
 title: 感谢
 Hidden: true
+date: 2024-12-14
 ---
 <div style="text-align: left;">
   <span><h1 style="display:inline;">RDUTeam</h1>&nbsp;<p style="display:inline;">@什亭之人</p></span>

@@ -1,0 +1,29 @@
+# 博客配置 | Blog Configuration
+# keywords:
+author: fingtest6
+# description: 
+
+# 如需修改icon,请替换 source/images/favicon.ico 文件
+# If you want to change the icon, please replace the source/images/favicon.ico file
+avatar: /images/favicon.ico
+copyright: 2024
+
+# 个人信息 | Personal Information
+name: 什亭之人的导航页 | fingtest6
+
+# 社交账号 | Social Account
+github: https://github.com/fingtest6
+
+# QQ: http://sighttp.qq.com/authd?IDKEY=xxx
+
+# TODO：适配更多的社交账号
+# TODO: Add more social accounts
+gitalk:
+  enable: true
+  clientID: 29b361428ea6fb15807d
+  clientSecret: 8b784dfc7f3204889a4bc6f9e0fc88a765103d9a
+  repo: fingtest6_hlog_comments
+  owner: fingtest6
+  admin: ['fingtest6','cjhcjh6']
+  language: zh-CN
+  proxy: https://proxy-gitalk-api.netlify.app/github_access_token

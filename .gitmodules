@@ -1,0 +1,3 @@
+[submodule "themes/anatole-core-resume"]
+    path = themes/anatole-core-resume
+    url = https://github.com/Cytrogen/hexo-theme-Anatole-Core-Resume

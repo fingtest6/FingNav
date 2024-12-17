@@ -5,7 +5,7 @@ author: fingtest6
 
 # 如需修改icon,请替换 source/images/favicon.ico 文件
 # If you want to change the icon, please replace the source/images/favicon.ico file
-avatar: /images/favicon.ico
+avatar: /imgs/favicon.ico
 copyright: 2024
 
 # 个人信息 | Personal Information
@@ -13,8 +13,3 @@ name: 什亭之人的导航页 | fingtest6
 
 # 社交账号 | Social Account
 github: https://github.com/fingtest6
-
-# QQ: http://sighttp.qq.com/authd?IDKEY=xxx
-
-# TODO：适配更多的社交账号
-# TODO: Add more social accounts

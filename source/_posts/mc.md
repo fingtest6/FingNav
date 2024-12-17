@@ -32,19 +32,17 @@ date: 2024-12-14
   </a>
 </div>
 
-<!--预留空位
 <div class="link-container">
-  <a href="./" target="_blank">
-    <h1>无</h1>
-    <img src="/imgs/Not.jpg" alt="图片描述1" width="300" height="180"/>
+  <a href="https://papermc.io/" target="_blank">
+    <h1>Paper服务端</h1>
+    <img src="/imgs/mc/PaperMc.png" alt="PaperMc" width="300" height="180"/>
   </a>
-  <a href="./" target="_blank">
-    <h1>无</h1>
-    <img src="/imgs/Not.jpg" alt="图片描述2" width="300" height="180"/>
+  <a href="https://leavesmc.org/" target="_blank">
+    <h1>Leaves服务端</h1>
+    <img src="/imgs/mc/LeavesMc.png" alt="LeavesMc" width="300" height="180"/>
   </a>
-  <a href="./" target="_blank">
-    <h1>无</h1>
-    <img src="/imgs/Not.jpg" alt="图片描述3" width="300" height="180"/>
+  <a href="https://mohistmc.com/" target="_blank">
+    <h1>Mohist服务端</h1>
+    <img src="/imgs/mc/MohistMC.png" alt="MohistMC" width="300" height="180"/>
   </a>
 </div>
--->
